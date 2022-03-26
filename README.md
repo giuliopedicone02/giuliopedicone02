@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Programmazione 2](https://github.com/giuliopedicone02/Programmazione2)
 
-- 🌱 I’m currently learning **Computer Science (UniCT L-31)**
+- 🌱 I’m currently studying **Computer Science (UniCT L-31)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/giuliopedicone02](https://github.com/giuliopedicone02)
 
