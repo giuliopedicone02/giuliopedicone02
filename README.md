@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giulio</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate Computer Science Student from Italy</h3>
 
 - 🔭 I’m currently working on [Programmazione 2](https://github.com/giuliopedicone02/Programmazione2)
 
