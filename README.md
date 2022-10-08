@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giulio</h1>
 <h3 align="center">A passionate Computer Science Student from Italy</h3>
 
-- 🔭 I’m currently working on [Algoritmi](https://github.com/giuliopedicone02/Algoritmi)
+- 🔭 I’m currently working on [Algoritmi](https://github.com/giuliopedicone02/Algoritmi), [Basi Di Dati](https://github.com/giuliopedicone02/Database), [Interazione e Multimedia](https://github.com/giuliopedicone02/Processing)
 
 - 📝 Other UniCT repositories [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1), [Programmazione 2](https://github.com/giuliopedicone02/Programmazione2)
 
