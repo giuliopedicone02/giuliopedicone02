@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giulio</h1>
 <h3 align="center">A passionate Computer Science Student from Italy</h3>
 
-- 🔭 I’m currently working on [Algoritmi](https://github.com/giuliopedicone02/Algoritmi), [Basi Di Dati](https://github.com/giuliopedicone02/Database), [Interazione e Multimedia](https://github.com/giuliopedicone02/Processing)
+- 🔭 I’m currently working on [Algoritmi](https://github.com/giuliopedicone02/Algoritmi), [Basi Di Dati](https://github.com/giuliopedicone02/Database)
 
-- 📝 Other UniCT repositories [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1), [Programmazione 2](https://github.com/giuliopedicone02/Programmazione2)
+- 📝 Other UniCT repositories [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1), [Programmazione 2](https://github.com/giuliopedicone02/Programmazione2), [Interazione e Multimedia](https://github.com/giuliopedicone02/Processing)
 
 - 🌱 I’m currently studying **Computer Science (UniCT L-31)**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,mysql,php,bootstrap,wordpress,git,github,latex,processing,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,html,css,js,mysql,php,bootstrap,wordpress,git,github,latex,processing,vscode)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliopedicone02&show_icons=true&locale=en&layout=compact" alt="giuliopedicone02" /></p>
 
