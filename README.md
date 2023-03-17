@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giulio</h1>
-<h3 align="center">A passionate Computer Science Student from Italy</h3>
+<h3 align="center">A passionate Computer Science Student from Italy 🇮🇹</h3>
 
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
-- 🔭 I’m currently working on: [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW), [Reti di Calcolatori](https://github.com/giuliopedicone02/RetiDiCalcolatori)
+- 🖥️ I’m currently working on: [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW), [Reti di Calcolatori](https://github.com/giuliopedicone02/RetiDiCalcolatori)
 
 - 📝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
@@ -12,7 +12,7 @@
   -   [Algoritmi](https://github.com/giuliopedicone02/Algoritmi)
   -   [Basi Di Dati](https://github.com/giuliopedicone02/Database)
 
-- 🌱 I’m currently studying **Computer Science (UniCT L-31)**
+- 📚 I’m currently studying **Computer Science (UniCT L-31)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/giuliopedicone02](https://github.com/giuliopedicone02)
 
