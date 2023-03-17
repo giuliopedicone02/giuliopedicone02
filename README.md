@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giulio</h1>
-<h3 align="center">A passionate Computer Science Student from Italy 🇮🇹</h3>
+<h3 align="center">A passionate Computer Science Student from Italy 🇮🇹 🇪🇺</h3>
 
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
