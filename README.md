@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Giulio</h1>
 <h3 align="center">A passionate Computer Science Student from Italy</h3>
 
-- 🔭 I’m currently working on , [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW), [Reti di Calcolatori](https://github.com/giuliopedicone02/RetiDiCalcolatori)
+<p align="center"><img src="./Dijkstra.jpg" width=700></p>
+
+- 🔭 I’m currently working on: [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW), [Reti di Calcolatori](https://github.com/giuliopedicone02/RetiDiCalcolatori)
 
 - 📝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
@@ -27,8 +29,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,php,bootstrap,wordpress,git,github,latex,processing)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliopedicone02&show_icons=true&locale=en&layout=compact" alt="giuliopedicone02" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliopedicone02&show_icons=true&locale=en&layout=compact" alt="giuliopedicone02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliopedicone02&show_icons=true&locale=en" alt="giuliopedicone02" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giuliopedicone02&show_icons=true&locale=en" alt="giuliopedicone02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giuliopedicone02&" alt="giuliopedicone02" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giuliopedicone02&" alt="giuliopedicone02" /></p>
