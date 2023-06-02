@@ -3,7 +3,7 @@
 
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
-- 🖥️ I’m currently working on: [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW), [Reti di Calcolatori](https://github.com/giuliopedicone02/RetiDiCalcolatori)
+- 🖥️ I’m currently working on: [Reti di Calcolatori](https://github.com/giuliopedicone02/RetiDiCalcolatori), [Sistemi Operativi](https://github.com/giuliopedicone02/SistemiOperativi)
 
 - 📝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
@@ -11,6 +11,7 @@
   -   [Interazione e Multimedia](https://github.com/giuliopedicone02/Processing)
   -   [Algoritmi](https://github.com/giuliopedicone02/Algoritmi)
   -   [Basi Di Dati](https://github.com/giuliopedicone02/Database)
+  -   [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW)
 
 - 📚 I’m currently studying **Computer Science (UniCT L-31)**
 
