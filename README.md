@@ -24,6 +24,7 @@
 <a href="https://twitter.com/pediconegiulio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pediconegiulio" height="30" width="40" /></a>
 <a href="https://fb.com/giulio.pedicone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giulio.pedicone" height="30" width="40" /></a>
 <a href="https://instagram.com/giuliopedicone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giuliopedicone" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/giulio-p-553a02177/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="giulio-p-553a02177" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
