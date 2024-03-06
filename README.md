@@ -3,7 +3,11 @@
 
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
-- 🖥️ I’m currently working on: [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW), [Metodi Matematici e Statistici](https://github.com/giuliopedicone02/Metodi-Matematici-e-Statistici)
+- 🖥️ I’m currently working on:
+  - [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW)
+  - [Metodi Matematici e Statistici](https://github.com/giuliopedicone02/Metodi-Matematici-e-Statistici)
+  - [Internet Security](https://github.com/giuliopedicone02/Internet-Security)
+  - [Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)
 - 📝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
   -   [Programmazione 2](https://github.com/giuliopedicone02/Programmazione2)
