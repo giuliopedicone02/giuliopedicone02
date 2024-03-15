@@ -7,6 +7,7 @@
   - [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW)
   - [Metodi Matematici e Statistici](https://github.com/giuliopedicone02/Metodi-Matematici-e-Statistici)
   - [Internet Security](https://github.com/giuliopedicone02/Internet-Security)
+  - [Sistemi Centrali](https://github.com/giuliopedicone02/Sistemi-Centrali)
   - [Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)
 - 📝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
