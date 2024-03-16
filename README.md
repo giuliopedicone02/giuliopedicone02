@@ -32,9 +32,17 @@
 <a href="https://www.linkedin.com/in/giulio-p-553a02177/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" alt="giulio-p-553a02177" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,mysql,php,bootstrap,wordpress,git,github,latex,processing)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,processing)](https://skillicons.dev)
+
+<h3 align="left">Web Development:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress)](https://skillicons.dev)
+
+<h3 align="left">Other Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,latex)](https://skillicons.dev)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giuliopedicone02&show_icons=true&locale=en&layout=compact" alt="giuliopedicone02" /></p>
 
