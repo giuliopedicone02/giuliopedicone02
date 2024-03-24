@@ -38,7 +38,7 @@
 
 <h3 align="left">Web Development:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,bootstrap,wordpress)](https://skillicons.dev)
 
 <h3 align="left">Other Tools:</h3>
 
