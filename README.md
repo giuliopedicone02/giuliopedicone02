@@ -6,8 +6,8 @@
 - 🖥️ I’m currently working on:
   - [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW)
   - [Internet Security](https://github.com/giuliopedicone02/Internet-Security)
-  - [Sistemi Centrali](https://github.com/giuliopedicone02/Sistemi-Centrali)
   - [Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)
+    
 - 📝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
   -   [Programmazione 2](https://github.com/giuliopedicone02/Programmazione2)
