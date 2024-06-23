@@ -17,6 +17,7 @@
   -   [Basi Di Dati](https://github.com/giuliopedicone02/Database)
   -   [Reti di Calcolatori](https://github.com/giuliopedicone02/RetiDiCalcolatori)
   -   [Metodi Matematici e Statistici](https://github.com/giuliopedicone02/Metodi-Matematici-e-Statistici)
+  -   [Sistemi Centrali](https://github.com/giuliopedicone02/SistemiCentrali)
 
 - 📚 I’m currently studying **Computer Science (UniCT L-31)**
 
