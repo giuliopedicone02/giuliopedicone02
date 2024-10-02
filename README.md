@@ -5,6 +5,7 @@
 
 - 🖥️ I’m currently working on:
   - [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW)
+  - [Web & Service Oriented System](https://github.com/giuliopedicone02/Web-Service-Oriented-System)
 
 - 📝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
