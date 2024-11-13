@@ -4,7 +4,6 @@
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
 - 🖥️ I’m currently working on:
-  - [Ingegneria del Software](https://github.com/giuliopedicone02/IngegneriaDelSW)
   - [Web & Service Oriented System](https://github.com/giuliopedicone02/Web-Service-Oriented-System)
 
 - 📝 Other UniCT repositories: 
