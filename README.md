@@ -19,7 +19,7 @@
   -   [Internet Security](https://github.com/giuliopedicone02/Internet-Security)
   -   [Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)
 
-- 📚 I’m currently studying **Computer Science (UniCT L-31)**
+- 📚 I’m currently studying **Computer Science (UniCT LM-18)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/giuliopedicone02](https://github.com/giuliopedicone02)
 
