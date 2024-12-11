@@ -3,10 +3,10 @@
 
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
-- 🖥️ I’m currently working on:
+- 🔦 I’m currently working on:
   - [Web & Service Oriented System](https://github.com/giuliopedicone02/Web-Service-Oriented-System)
 
-- 📝 Other UniCT repositories: 
+- 🗝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
   -   [Programmazione 2](https://github.com/giuliopedicone02/Programmazione2)
   -   [Interazione e Multimedia](https://github.com/giuliopedicone02/Processing)
@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/giuliopedicone02](https://github.com/giuliopedicone02)
 
-- 📫 How to reach me **pediconegiulio02@gmail.com**
+- 📧 How to reach me **pediconegiulio02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,11 @@
 
 <h3 align="left">Web Development:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,bootstrap,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,bootstrap,wordpress,laravel)](https://skillicons.dev)
+
+<h3 align="left">DevOps & Backend Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,spring,maven)](https://skillicons.dev)
 
 <h3 align="left">Other Tools:</h3>
 
