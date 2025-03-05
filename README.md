@@ -4,7 +4,10 @@
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
 - 🔦 I’m currently working on:
-  - [Web & Service Oriented System](https://github.com/giuliopedicone02/Web-Service-Oriented-System)
+
+  - [Heuristics And Metaheuristics For Optimization and Learning](https://github.com/giuliopedicone02/Heuristics)
+  - [Sistemi Cloud](https://github.com/giuliopedicone02/SistemiCloud)
+  - [Machine Learning](https://github.com/giuliopedicone02/MachineLearning)
 
 - 🗝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
@@ -18,6 +21,8 @@
   -   [Sistemi Centrali](https://github.com/giuliopedicone02/SistemiCentrali)
   -   [Internet Security](https://github.com/giuliopedicone02/Internet-Security)
   -   [Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)
+  -   [Web & Service Oriented System](https://github.com/giuliopedicone02/Web-Service-Oriented-System)
+
 
 - 📚 I’m currently studying **Computer Science (UniCT LM-18)**
 
