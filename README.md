@@ -7,7 +7,6 @@
 
   - [Heuristics And Metaheuristics For Optimization and Learning](https://github.com/giuliopedicone02/Heuristics)
   - [Sistemi Cloud](https://github.com/giuliopedicone02/SistemiCloud)
-  - [Machine Learning](https://github.com/giuliopedicone02/MachineLearning)
 
 - 🗝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
@@ -22,6 +21,8 @@
   -   [Internet Security](https://github.com/giuliopedicone02/Internet-Security)
   -   [Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)
   -   [Web & Service Oriented System](https://github.com/giuliopedicone02/Web-Service-Oriented-System)
+  -   [Machine Learning](https://github.com/giuliopedicone02/MachineLearning) $\rightarrow$ [Progetto - Traffic Sign Object Detection](https://github.com/giuliopedicone02/TrafficSignDetectionAndRecognition)
+    
 
 
 - 📚 I’m currently studying **Computer Science (UniCT LM-18)**
