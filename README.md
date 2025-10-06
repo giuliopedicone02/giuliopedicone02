@@ -5,6 +5,7 @@
 
 - 🔦 I’m currently working on:
 
+  - [Fondamenti di Analisi Dati](https://github.com/giuliopedicone02/FondamentiDiAnalisiDati)
   - [Sistemi Cloud](https://github.com/giuliopedicone02/SistemiCloud)
 
 - 🗝 Other UniCT repositories: 
