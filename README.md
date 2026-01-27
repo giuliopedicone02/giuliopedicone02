@@ -5,7 +5,6 @@
 
 - 🔦 I’m currently working on:
 
-  - [Fondamenti di Analisi Dati](https://github.com/giuliopedicone02/FondamentiDiAnalisiDati)
   - [Sistemi Cloud](https://github.com/giuliopedicone02/SistemiCloud)
 
 - 🗝 Other UniCT repositories: 
@@ -23,6 +22,7 @@
   -   [Web & Service Oriented System](https://github.com/giuliopedicone02/Web-Service-Oriented-System)
   -   [Machine Learning](https://github.com/giuliopedicone02/MachineLearning) $\rightarrow$ [Progetto - Traffic Sign Object Detection](https://github.com/giuliopedicone02/TrafficSignDetectionAndRecognition)
   -   [Heuristics And Metaheuristics For Optimization and Learning](https://github.com/giuliopedicone02/Heuristics)
+  -   [Fondamenti di Analisi Dati](https://github.com/giuliopedicone02/FondamentiDiAnalisiDati) $\rightarrow$ [Progetto - Analysis of UN Country Statistics](https://github.com/giuliopedicone02/Analysis-of-UN-Country-Statistics)
 
 
 
