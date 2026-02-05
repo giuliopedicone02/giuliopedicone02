@@ -5,7 +5,7 @@
 
 - 🔦 I’m currently working on:
 
-  - [Sistemi Cloud](https://github.com/giuliopedicone02/SistemiCloud)
+  - [Cloud Registry (Progetto di Sistemi Cloud)](https://github.com/giuliopedicone02/CloudRegistry)
 
 - 🗝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
