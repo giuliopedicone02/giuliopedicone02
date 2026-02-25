@@ -4,7 +4,7 @@
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
 - 🔦 I’m currently working on:
-   - [Git Notify Bot( Progetto di Quality Development)](https://github.com/ericad01/GitNotifyBot)
+   - [Git Notify Bot (Progetto di Quality Development)](https://github.com/ericad01/GitNotifyBot)
 
 - 🗝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
