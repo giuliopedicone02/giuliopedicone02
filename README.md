@@ -4,8 +4,7 @@
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
 - 🔦 I’m currently working on:
-
-  - [Cloud Registry (Progetto di Sistemi Cloud)](https://github.com/giuliopedicone02/CloudRegistry)
+   - [Git Botify Bot(Progetto di Quality Development)](https://github.com/ericad01/GitNotifyBot)
 
 - 🗝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
@@ -23,6 +22,7 @@
   -   [Machine Learning](https://github.com/giuliopedicone02/MachineLearning) $\rightarrow$ [Progetto - Traffic Sign Object Detection](https://github.com/giuliopedicone02/TrafficSignDetectionAndRecognition)
   -   [Heuristics And Metaheuristics For Optimization and Learning](https://github.com/giuliopedicone02/Heuristics)
   -   [Fondamenti di Analisi Dati](https://github.com/giuliopedicone02/FondamentiDiAnalisiDati) $\rightarrow$ [Progetto - Analysis of UN Country Statistics](https://github.com/giuliopedicone02/Analysis-of-UN-Country-Statistics)
+  - [Cloud Registry (Progetto di Sistemi Cloud)](https://github.com/giuliopedicone02/CloudRegistry)
 
 
 
