@@ -4,7 +4,7 @@
 <p align="center"><img src="./Dijkstra.jpg" width=700></p>
 
 - 🔦 I’m currently working on:
-   - [Git Notify Bot (Progetto di Quality Development)](https://github.com/ericad01/GitNotifyBot)
+   - [Deep Learning](https://github.com/giuliopedicone02/DeepLearning)
 
 - 🗝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
@@ -23,6 +23,8 @@
   -   [Heuristics And Metaheuristics For Optimization and Learning](https://github.com/giuliopedicone02/Heuristics)
   -   [Fondamenti di Analisi Dati](https://github.com/giuliopedicone02/FondamentiDiAnalisiDati) $\rightarrow$ [Progetto - Analysis of UN Country Statistics](https://github.com/giuliopedicone02/Analysis-of-UN-Country-Statistics)
   - [Cloud Registry (Progetto di Sistemi Cloud)](https://github.com/giuliopedicone02/CloudRegistry)
+  - [Git Notify Bot (Progetto di Quality Development)](https://github.com/ericad01/GitNotifyBot)
+
 
 
 
