@@ -5,6 +5,7 @@
 
 - 🔦 I’m currently working on:
    - [Deep Learning](https://github.com/giuliopedicone02/DeepLearning)
+   - [Multimedia Forensics](https://github.com/giuliopedicone02/MultimediaForensics)
 
 - 🗝 Other UniCT repositories: 
   -   [Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)
