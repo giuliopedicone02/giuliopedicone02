@@ -41,23 +41,23 @@
 
 | Course | Description |
 |---|---|
-| 💻 **[Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)** | Fundamentals of programming in C++ |
+| 💻 **[Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)** | Fundamentals of programming in C |
 | 🧩 **[Programmazione 2](https://github.com/giuliopedicone02/Programmazione2)** | Object-oriented programming in C++ |
 | 🎨 **[Interazione e Multimedia](https://github.com/giuliopedicone02/Processing)** | Creative coding and multimedia interaction with Processing |
 | 📐 **[Algoritmi](https://github.com/giuliopedicone02/Algoritmi)** | Data structures and algorithm design |
 | ⚙️ **[Sistemi Operativi](https://github.com/giuliopedicone02/SistemiOperativi)** | Processes, threading, synchronization and memory management in C |
-| 🗄️ **[Basi Di Dati](https://github.com/giuliopedicone02/Database)** | Relational database design and SQL queries |
+| 🗄️ **[Basi Di Dati](https://github.com/giuliopedicone02/Database)** <br/> &nbsp;&nbsp;&nbsp;↳ ✈️ **[Uni Fly](https://github.com/giuliopedicone02/Database/releases/tag/v1.0.0)** | Relational database design and SQL queries <br/> **Project:** airport management system |
 | 🌐 **[Reti di Calcolatori](https://github.com/giuliopedicone02/RetiDiCalcolatori)** | Computer networking concepts and socket programming |
 | 📊 **[Metodi Matematici e Statistici](https://github.com/giuliopedicone02/Metodi-Matematici-e-Statistici)** | Mathematical and statistical methods for Computer Science |
 | 🖥️ **[Sistemi Centrali](https://github.com/giuliopedicone02/SistemiCentrali)** | Mainframe systems and enterprise computing architectures |
-| 🔐 **[Internet Security](https://github.com/giuliopedicone02/Internet-Security)** | Fundamentals of network security |
-| 🎯 **[Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)** | Frontend and backend development, UI/UX principles and usability |
+| 🔐 **[Internet Security](https://github.com/giuliopedicone02/Internet-Security)** <br/> &nbsp;&nbsp;&nbsp;↳ 🕵️ **[Pseudonymization Attack](https://github.com/giuliopedicone02/Internet-Security/tree/main/Progetto)** | Cryptography, network security and vulnerability analysis <br/> **Project:** attack phase on pseudonymization |
+| 🎯 **[Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)** | Frontend development, UI/UX principles and usability |
 | 🔗 **[Web & Service Oriented System](https://github.com/giuliopedicone02/Web-Service-Oriented-System)** | REST APIs, SOAP services and service-oriented architectures |
-| 🤖 **[Machine Learning](https://github.com/giuliopedicone02/MachineLearning)** <br/> &nbsp;&nbsp;&nbsp;↳ 🚦 **[Traffic Sign Detection & Recognition](https://github.com/giuliopedicone02/TrafficSignDetectionAndRecognition)** | Supervised and unsupervised learning algorithms <br/> **Project:** object detection with YOLO |
-| 🧬 **[Heuristics & Metaheuristics](https://github.com/giuliopedicone02/Heuristics)** | Genetic algorithms, simulated annealing and swarm intelligence |
+| 🤖 **[Machine Learning](https://github.com/giuliopedicone02/MachineLearning)** <br/> &nbsp;&nbsp;&nbsp;↳ 🚦 **[Traffic Sign Detection & Recognition](https://github.com/giuliopedicone02/TrafficSignDetectionAndRecognition)** | Supervised and unsupervised learning algorithms <br/> **Project:** object detection of traffic signs with YOLO |
+| 🧬 **[Heuristics & Metaheuristics](https://github.com/giuliopedicone02/Heuristics)** <br/> &nbsp;&nbsp;&nbsp;↳ 🐜 **[Ant Colony Optimization](https://github.com/giuliopedicone02/Heuristics/tree/main/Progetto)** | Genetic algorithms, simulated annealing and swarm intelligence <br/> **Project:** ACO for the Maximum Flow Problem |
 | 📈 **[Fondamenti di Analisi Dati](https://github.com/giuliopedicone02/FondamentiDiAnalisiDati)** <br/> &nbsp;&nbsp;&nbsp;↳ 🌍 **[Analysis of UN Country Statistics](https://github.com/giuliopedicone02/Analysis-of-UN-Country-Statistics)** | Data analysis and visualization <br/> **Project:** statistical analysis on UN datasets |
-| ☁️ **[Cloud Registry](https://github.com/giuliopedicone02/CloudRegistry)** | Cloud-native application built with AWS, Docker and Terraform |
-| 🔔 **[Git Notify Bot](https://github.com/ericad01/GitNotifyBot)** | Telegram bot that monitors GitHub repository events |
+| ☁️ **Sistemi Cloud** <br/> &nbsp;&nbsp;&nbsp;↳ 🗂️ **[Cloud Registry](https://github.com/giuliopedicone02/CloudRegistry)** | Cloud computing architectures and services <br/> **Project:** cloud-native application built with AWS, Docker and Terraform |
+| 🔬 **Quality Development** <br/> &nbsp;&nbsp;&nbsp;↳ 🔔 **[Git Notify Bot](https://github.com/ericad01/GitNotifyBot)** | Software quality, testing and development best practices <br/> **Project:** Telegram bot that monitors GitHub repository events |
 
 ---
 
