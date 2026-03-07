@@ -41,7 +41,7 @@
 
 | Course | Description |
 |---|---|
-| 💻 **[Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)** | Fundamentals of programming in C |
+| 💻 **[Programmazione 1](https://github.com/giuliopedicone02/Programmazione1)** | Fundamentals of programming in C++ |
 | 🧩 **[Programmazione 2](https://github.com/giuliopedicone02/Programmazione2)** | Object-oriented programming in C++ |
 | 🎨 **[Interazione e Multimedia](https://github.com/giuliopedicone02/Processing)** | Creative coding and multimedia interaction with Processing |
 | 📐 **[Algoritmi](https://github.com/giuliopedicone02/Algoritmi)** | Data structures and algorithm design |
@@ -50,8 +50,8 @@
 | 🌐 **[Reti di Calcolatori](https://github.com/giuliopedicone02/RetiDiCalcolatori)** | Computer networking concepts and socket programming |
 | 📊 **[Metodi Matematici e Statistici](https://github.com/giuliopedicone02/Metodi-Matematici-e-Statistici)** | Mathematical and statistical methods for Computer Science |
 | 🖥️ **[Sistemi Centrali](https://github.com/giuliopedicone02/SistemiCentrali)** | Mainframe systems and enterprise computing architectures |
-| 🔐 **[Internet Security](https://github.com/giuliopedicone02/Internet-Security)** <br/> &nbsp;&nbsp;&nbsp;↳ 🕵️ **[Pseudonymization Attack](https://github.com/giuliopedicone02/Internet-Security/tree/main/Progetto)** | Cryptography, network security and vulnerability analysis <br/> **Project:** attack phase on pseudonymization |
-| 🎯 **[Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)** | Frontend development, UI/UX principles and usability |
+| 🔐 **[Internet Security](https://github.com/giuliopedicone02/Internet-Security)** <br/> &nbsp;&nbsp;&nbsp;↳ 🕵️ **[Pseudonymization Attack](https://github.com/giuliopedicone02/Internet-Security/tree/main/Progetto)** | Fundamentals of network security <br/> **Project:** attack phase on pseudonymization |
+| 🎯 **[Web Programming Design & Usability](https://github.com/giuliopedicone02/Web-Programming)** | Frontend and backend development, UI/UX principles and usability |
 | 🔗 **[Web & Service Oriented System](https://github.com/giuliopedicone02/Web-Service-Oriented-System)** | REST APIs, SOAP services and service-oriented architectures |
 | 🤖 **[Machine Learning](https://github.com/giuliopedicone02/MachineLearning)** <br/> &nbsp;&nbsp;&nbsp;↳ 🚦 **[Traffic Sign Detection & Recognition](https://github.com/giuliopedicone02/TrafficSignDetectionAndRecognition)** | Supervised and unsupervised learning algorithms <br/> **Project:** object detection of traffic signs with YOLO |
 | 🧬 **[Heuristics & Metaheuristics](https://github.com/giuliopedicone02/Heuristics)** <br/> &nbsp;&nbsp;&nbsp;↳ 🐜 **[Ant Colony Optimization](https://github.com/giuliopedicone02/Heuristics/tree/main/Progetto)** | Genetic algorithms, simulated annealing and swarm intelligence <br/> **Project:** ACO for the Maximum Flow Problem |
