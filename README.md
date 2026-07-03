@@ -32,8 +32,8 @@
 
 | Project | Description |
 |---|---|
-| 🧠 **[Deep Learning](https://github.com/giuliopedicone02/DeepLearning)** | Neural networks, generative models and advanced training techniques |
-| 🔍 **[Multimedia Forensics](https://github.com/giuliopedicone02/MultimediaForensics)** | Detection and analysis of manipulations in multimedia content |
+| 🧠 **[Deep Learning](https://github.com/giuliopedicone02/DeepLearning)** <br/> &nbsp;&nbsp;&nbsp;↳ 👁️ **[Egocentric Video Gaze For Action Recognition](https://github.com/giuliopedicone02/EgocentricVideoGazeForActionRecognition)** | Neural networks, generative models and advanced training techniques <br/> **Project:** gaze-driven action recognition from egocentric video |
+| 🔍 **[Multimedia Forensics](https://github.com/giuliopedicone02/MultimediaForensics)** <br/> &nbsp;&nbsp;&nbsp;↳ 🕵️ **[Deepfake Forensics & Attribution](https://github.com/giuliopedicone02/MultimediaForensics/tree/main/Progetto)** | Detection and analysis of manipulations in multimedia content <br/> **Project:** multi-stream (RGB + Fourier) deepfake detection & generator attribution pipeline with Grad-CAM and VLM-based explainability |
 
 ---
 
@@ -102,6 +102,16 @@
     <td align="center"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" height="28"/><br/><sub>Matplotlib</sub></td>
     <td align="center"><img src="https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white" height="28"/><br/><sub>Jupyter</sub></td>
     <td align="center"><img src="https://img.shields.io/badge/YOLO-%2300FFFF.svg?style=flat-square&logo=yolo&logoColor=black" height="28"/><br/><sub>YOLO</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black" height="28"/><br/><sub>Hugging Face</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white&color=5C3EE8" height="28"/><br/><sub>OpenCV</sub></td>
+  </tr>
+</table>
+
+<h4>🚀 Edge AI & Deployment</h4>
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900.svg?style=flat-square&logo=nvidia&logoColor=white" height="28"/><br/><sub>NVIDIA Jetson</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Meta%20Aria-0668E1.svg?style=flat-square&logo=meta&logoColor=white" height="28"/><br/><sub>Meta Aria Gen2</sub></td>
   </tr>
 </table>
 
