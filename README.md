@@ -34,6 +34,7 @@
 |---|---|
 | 🧠 **[Deep Learning](https://github.com/giuliopedicone02/DeepLearning)** <br/> &nbsp;&nbsp;&nbsp;↳ 👁️ **[Egocentric Video Gaze For Action Recognition](https://github.com/giuliopedicone02/EgocentricVideoGazeForActionRecognition)** | Neural networks, generative models and advanced training techniques <br/> **Project:** gaze-driven action recognition from egocentric video |
 | 🔍 **[Multimedia Forensics](https://github.com/giuliopedicone02/MultimediaForensics)** <br/> &nbsp;&nbsp;&nbsp;↳ 🕵️ **[Deepfake Forensics & Attribution](https://github.com/giuliopedicone02/MultimediaForensics/tree/main/Progetto)** | Detection and analysis of manipulations in multimedia content <br/> **Project:** multi-stream (RGB + Fourier) deepfake detection & generator attribution pipeline with Grad-CAM and VLM-based explainability |
+| 🌐 **Ingegneria dei Sistemi Distribuiti** <br/> &nbsp;&nbsp;&nbsp;↳ 💰 **[OmniPrice](https://github.com/giuliopedicone02/OmniPrice)** | Comunicazione robusta, asincrona e sicura tra nodi distribuiti <br/> **Project:** sistema di tracciamento prezzi multi-store (Spring Boot + Vue 3) con design pattern per sicurezza, resilienza, messaggistica asincrona e coordinamento distribuito |
 
 ---
 
